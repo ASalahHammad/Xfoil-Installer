@@ -1,4 +1,4 @@
-# Fast Installer for Xfoil v6.99 for unix users
+# Fast Installer for Xfoil v6.99 for UNIX users
 ## All you need to do is to:
 1. Download the compressed .tgz program from the [official website](https://web.mit.edu/drela/Public/web/xfoil/)
 2. Extract the compressed folder and open it
