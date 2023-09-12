@@ -1,8 +1,8 @@
 # Fast Installer for Xfoil v6.99 for UNIX users
 ## All you need to do is to:
 1. Download the compressed .tgz program from the [official website](https://web.mit.edu/drela/Public/web/xfoil/)
-2. Extract the compressed folder and open it
-3. Open the terminal in this location and enter this command:
+2. Extract the compressed folder and open it in the terminal
+3. Put the file "run_all.sh" in this location and enter this command:
 ### `bash run_all.sh`
 #### This is helpful because -in addition to the so many steps needed to compile the program- there are multiple mistakes in the makefiles  
 
